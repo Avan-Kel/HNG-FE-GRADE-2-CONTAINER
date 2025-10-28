@@ -44,9 +44,11 @@ Each implementation is a **complete and separate project**:
 
 | Framework | Directory | Setup & Usage |
 |-----------|-----------|---------------|
-| **React + TypeScript** | [`react-ticket-app/`](react-ticket-app) | `npm install && npm run dev` |
-| **Vue 3 + TypeScript** | [`vue-ticket-app/`](vue-ticket-app) | `npm install && npm run dev` |
-| **Twig (PHP)** | [`twig-ticket-app/`](twig-ticket-app) | `php -S localhost:8000 -t public` |
+| **React + TypeScript** | [GITHUB`https://github.com/Avan-Kel/HNG-FE-GRADE-2-REACT.git/`] vercel(https://hng-fe-grade-2-react-git-main-promises-projects-3ed1ac1b.vercel.app) | `php -S localhost:8000 -t public` |
+-----
+| **Twig (PHP)** | [GITHUB`https://github.com/Avan-Kel/HNG-FE-GRADE-2-TWIG.git/`](https://hng-fe-grade-2-twig-production.up.railway.app) | `npm install && npm run dev` |
+| **Vue 3 + TypeScript** | [GITHUB`https://github.com/Avan-Kel/HNG-FE-GRADE-2-VUE.git/`](vue-ticket-app) | `npm install && npm run dev` |
+
 
 > Each directory contains a dedicated `README.md` with detailed setup instructions, folder structure, and usage examples.  
 
